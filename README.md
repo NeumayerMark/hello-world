@@ -1,2 +1,2 @@
 # hello-world
-It's a Hello World project.
+I work at Bridgestone.
